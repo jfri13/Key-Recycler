@@ -8,8 +8,6 @@ Key Recycler is a Program that can disable useless keys or remap useful function
 ## How to run
 You can download Release File and Source Code [Here](https://github.com/jfri13/Key-Recycler/releases).
 
-<br>
-
 Method 1. Download the Release File and Run it, SmartScreen will block it.
 
 ![smartscreen](Images/smartscreen.png)\
