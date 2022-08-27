@@ -47,7 +47,8 @@ After selecting the added Item, Find the Key you want to apply from the List and
 
 ![05](Images/05.png)\
 Right-Click and Select Add Remap Key. Double-Click in the list to Apply the Key.\
-You can add Modifier Keys and Delete Key.
+You can add Modifier Keys and Delete Key.\
+Don't forget to Check it to enable it to apply.
 
 <br>
 
