@@ -1,11 +1,11 @@
-# What is this
+## What is this
 Key Recycler is a Program that can disable useless keys or remap useful functions.
 
 ![01](Images/01.png)
 
 <br><br>
 
-# How to run
+## How to run
 Method 1. Download the Release File and Run it, SmartScreen will block it.
 
 ![smartscreen](Images/smartscreen.png)\
@@ -20,7 +20,7 @@ There are no viruses in the code.
 
 <br><br>
 
-# How to use
+## How to use
 ![02](Images/02.png)\
 By default, it can be applied to F1, Insert, Home, End, Page Up, Page Down.\
 It's Activated by checking the checkbox beside the key.\
@@ -53,7 +53,7 @@ Send Bug Reports or Suggestions to the Email below.
 
 <br><br>
 
-# Localization
+## Localization
 English and Korean localization files are included by default.\
 In Regions where Other Languages ​​are spoken, the Language Code will be Displayed beside the Program Title.
 
@@ -66,5 +66,5 @@ If you send the completed Localization File, I want to Release it after checking
 
 <br><br>
 
-# Contact Info
+## Contact Info
 * Email: jfri13@naver.com
