@@ -52,7 +52,7 @@ Don't forget to Check it to enable it to apply.
 
 <br>
 
-Send Bug Reports or Suggestions to the Email below.
+If you find a bug, please report it to the email below or send us your suggestions.
 
 <br><br>
 
